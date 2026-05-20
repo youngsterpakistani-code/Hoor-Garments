@@ -1,2 +1,5 @@
-# Hoor-Garments
-Thrift Store in Islamabad Bhara Kahu 
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
